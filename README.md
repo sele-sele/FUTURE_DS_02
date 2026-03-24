@@ -88,6 +88,7 @@ The Power BI dashboard includes:
 ## Project Structure
 
 <img width="830" height="467" alt="image" src="https://github.com/user-attachments/assets/df511d90-bd3c-428d-8303-5ad1761e43f7" />
+https://app.powerbi.com/view?r=eyJrIjoiNzUxMDIyMmMtZDlkZS00MTZjLThmMzUtY2IyNzY3NTU2NDg0IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9
 
 
 ## Skills Demonstrated
