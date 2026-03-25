@@ -88,7 +88,7 @@ The Power BI dashboard includes:
 
 <img width="826" height="464" alt="image" src="https://github.com/user-attachments/assets/c054ed7b-30fc-4346-aaf4-2c5d61c40cad" />
 
-https://app.powerbi.com/view?r=eyJrIjoiNzUxMDIyMmMtZDlkZS00MTZjLThmMzUtY2IyNzY3NTU2NDg0IiwidCI6IjE2ZDgzZWU2LTI1NGEtNDY5ZC1hNmNjLTU0ZTJjYTIzMTNlNyIsImMiOjh9
+https://app.powerbi.com/groups/me/reports/af3089e3-1fb7-4097-b6ca-14a663790efe/d7f0a6002c7a66d1aa77?experience=power-bi
 
 
 ## Skills Demonstrated
