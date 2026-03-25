@@ -60,12 +60,14 @@ The dataset was cleaned and prepared using the following steps:
 
 The Power BI dashboard includes:
 
-- KPI Cards (Total Customers, Churn Rate, Revenue)  
-- Customer Churn Distribution  
-- Churn by Contract Type  
-- Churn by Payment Method    
-- Monthly Charges vs Tenure  
-- Customer Tenure Distribution  
+- KPI Cards (Total Customers, Churn Rate, Retained Customers, Revenue)
+- Customer Churn Distribution
+- Churn by Contract Type
+- Churn by Payment Method
+- Churn by Internet Service Type
+- Churn by Senior Citizen
+- Monthly Charges vs Tenure
+- Customer Tenure (Lifetime) Distribution
 
 ## Key Insights
 
