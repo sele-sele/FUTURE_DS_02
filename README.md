@@ -74,8 +74,7 @@ The Power BI dashboard includes:
 - Customers with higher monthly charges are more likely to churn  
 - New customers (low tenure) churn more frequently  
 - Long-term customers show stronger loyalty  
-- Certain payment methods are linked to higher churn   
-- Churn is concentrated in specific customer segments  
+- Certain payment methods are linked to higher churn     
 
 ## Business Recommendations
 
